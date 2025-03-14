@@ -3,8 +3,8 @@ Enumeration Techniques
 
 # Explore Google hacking and enumeration 
 ```
-Developed by:Kavi Keerthana R
-Register no:212222100022
+Developed by:Praveen V
+Register no:212222040121
 ```
 # AIM:
 
