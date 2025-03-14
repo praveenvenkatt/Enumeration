@@ -111,7 +111,8 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 ## OUTPUT:
 ## site:
 
-![Screenshot 2024-09-19 140000](https://github.com/user-attachments/assets/8d4c007c-a98f-4669-9c09-de8d06965077)
+![{530B1C71-8A51-49B7-BC29-481A46279F5C}](https://github.com/user-attachments/assets/a9df1eb6-503e-474c-a79c-55ca48f45e83)
+
 
 ## filetype:
 ![Screenshot 2024-09-19 140051](https://github.com/user-attachments/assets/a3d8285c-cb6d-4064-8b77-317585a44eca)
