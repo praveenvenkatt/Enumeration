@@ -115,18 +115,21 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## filetype:
-![Screenshot 2024-09-19 140051](https://github.com/user-attachments/assets/a3d8285c-cb6d-4064-8b77-317585a44eca)
+![Screenshot 2025-03-14 092713](https://github.com/user-attachments/assets/c694c3e3-cf61-4e7f-99c3-c5d56ba3ba81)
+
 
 
 
 ## intext:
-![Screenshot 2024-09-19 140229](https://github.com/user-attachments/assets/6aceb2cd-3ec4-4c64-9cba-6521fbeddaed)
+![Screenshot 2025-03-14 092751](https://github.com/user-attachments/assets/0a614dc1-2a31-4d8f-b80a-bd950f5d684d)
+
 
 
 
 ## inurl:
 
-![Screenshot 2024-09-19 140253](https://github.com/user-attachments/assets/a03cdb05-4d37-4698-a5d3-6f19ba30bd6e)
+![Screenshot 2025-03-14 092829](https://github.com/user-attachments/assets/6afa5203-b6c8-47a3-bf9d-fbce5335b000)
+
 
 ## intitle:
 ![image](https://github.com/user-attachments/assets/c3da5262-ea2b-4f79-94e3-e60d6fa75353)
@@ -134,7 +137,8 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## link:
-![image](https://github.com/user-attachments/assets/2241e38e-0bca-4ced-8e05-83420dcf795e)
+![Screenshot 2025-03-14 093107](https://github.com/user-attachments/assets/bb3484d8-c73e-47d7-ad2e-7729604782c8)
+
 
 
 
