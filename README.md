@@ -172,7 +172,7 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 ![Screenshot 2025-03-14 143050](https://github.com/user-attachments/assets/2aa2ea5f-16aa-45b6-90bc-f97c8106d9be)
 
 
-## telnet
+## telnet:
 ![Screenshot 2025-03-14 144100](https://github.com/user-attachments/assets/804a0a98-e245-4344-ac6c-1fb572b576ad)
 
 
