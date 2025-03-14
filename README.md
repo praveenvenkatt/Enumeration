@@ -149,7 +149,8 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 ## DNS Enumeration:
 ## DNS Recon:
-![image](https://github.com/user-attachments/assets/3a6d46ca-e1c6-4600-8b6b-091334dd87e6)
+![Screenshot 2025-03-14 094932](https://github.com/user-attachments/assets/34f9e059-882f-4bea-b69f-392b0ea40219)
+
 
 ## dnsenum:
 
