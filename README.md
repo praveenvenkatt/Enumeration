@@ -1,14 +1,14 @@
-# Enumeration
+# EX 3: GOOGLE HACKING AND ENUMERATION
 Enumeration Techniques
 
-# Explore Google hacking and enumeration 
+# AIM:
+
+To use Google for gathering information and perform enumeration of targets
+
 ```
 Developed by:Praveen V
 Register no:212222040121
 ```
-# AIM:
-
-To use Google for gathering information and perform enumeration of targets
 
 ## STEPS:
 
